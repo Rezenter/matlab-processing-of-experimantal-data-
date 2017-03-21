@@ -1,0 +1,10 @@
+%lab 4, Жильцов Никита, var = 5
+
+clear all
+clc
+load A5.DAT;
+x = 1:length(A5);
+scatter(x, A5)
+s = std(A5);
+q = 
+%EOF

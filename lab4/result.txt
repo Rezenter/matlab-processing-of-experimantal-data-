@@ -1,0 +1,101 @@
+
+method =
+
+Abbe
+
+
+n =
+
+    13
+
+
+v =
+
+    0.0891
+
+
+vCritical =
+
+    0.2950
+
+
+verdict =
+
+Critical at level 0.001
+
+
+ans =
+
+correct answer: v = 0.11
+
+
+method =
+
+Fisher
+
+
+n =
+
+     6
+
+
+s =
+
+     6
+
+
+k1 =
+
+     5
+
+
+k2 =
+
+    30
+
+
+xm =
+
+    0.6675
+
+
+sigmaBC2 =
+
+    0.0854
+
+
+sigmaMC2 =
+
+    0.2732
+
+
+F =
+
+    3.1971
+
+
+FCritical =
+
+    2.5300
+
+
+verdict =
+
+Critical at level 0.05
+
+
+FCritical =
+
+    3.7000
+
+
+verdict =
+
+Non critical at level 0.01
+
+
+correctAnswer =
+
+    3.2000
+
+>> 

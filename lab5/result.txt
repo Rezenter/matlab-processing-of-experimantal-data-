@@ -1,0 +1,61 @@
+
+suspicious =
+
+права€ точка
+
+
+firstMethod =
+
+критерий –омановского, т.к. n = 14 < 20
+
+
+rom =
+
+    3.0611
+
+
+romVerdict =
+
+Romanovsky => Ho false; q =0.01
+
+
+Dickson =
+
+    0.4242
+
+
+DVerdict =
+
+Dickson => Ho false; q =0.1
+
+
+DVerdict =
+
+Dickson => Ho false; q =0.05
+
+
+DVerdict =
+
+Dickson => Ho false; q =0.02
+
+
+DVerdict =
+
+Dickson => Ho true; q =0.01
+
+
+crit =
+
+    2.2525
+
+
+nExp =
+
+    0.3313
+
+
+shovVerdict =
+
+Shovene => Ho false
+
+>> 

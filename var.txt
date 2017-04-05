@@ -3,3 +3,4 @@ lab     var
 4	5
 5	1
 6	2
+final = 3

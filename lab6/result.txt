@@ -1,0 +1,9 @@
+
+quantileMin =
+
+    1.5026
+
+
+quantileMax =
+
+    1.5983

@@ -2,14 +2,24 @@
 
 clear all
 clc
-
-%abbe
-method = strcat('Abbe')
+%graphical
 load A5.DAT
 global n
 n = length(A5)
 x = 1:(n);
-scatter(x, A5)
+subplot(1,2,1);
+scatter(x, A5);
+xp = [0 n];
+tmp = mean(A5);
+yp = [tmp tmp];
+line(xp, yp);
+title('raw data');
+data = A5 - tmp;
+subplot(1,2,2);
+scatter(x, data);
+title('centered data');
+%abbe
+method = strcat('Abbe')
 s2 = std(A5);
 q2 = (mean(diff(A5).^2))/2;
 v = q2/s2

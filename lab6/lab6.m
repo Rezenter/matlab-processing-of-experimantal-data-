@@ -62,6 +62,8 @@ while quantile > 0.95
     quantile = f(index);
 end
 quantileMin = z(index, 1)
+at = f(index)
 %real quantile here
 quantileMax = z(index + 1, 1)
+at = f(index+1)
 %EOF
